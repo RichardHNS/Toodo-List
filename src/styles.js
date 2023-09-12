@@ -21,7 +21,7 @@ export const H1 = styled.h1`
 `;
 
 export const Input = styled.input`
-  border: 2px solid rgba(209, 211, 212, 0.4);
+  border: 3px solid rgba(209, 211, 212, 0.4);
   border-radius: 5px;
   height: 40px;
   font-weight: 400;
